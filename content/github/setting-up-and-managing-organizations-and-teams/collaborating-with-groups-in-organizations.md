@@ -4,7 +4,7 @@ intro: Groups of people can collaborate across many projects at the same time in
 redirect_from:
   - /articles/creating-a-new-organization-account/
   - /articles/collaborating-with-groups-in-organizations
-mapTopic: true
+mapTopic: true :)
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
